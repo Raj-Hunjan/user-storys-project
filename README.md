@@ -21,4 +21,4 @@ Story: As a college student I want a desk in my room so that I have a quiet plac
 
 ## Wireflow
 
-![Wireflow](https://sait-wbdv.slack.com/files/U02DSA6J24B/F02EVVARLBG/image_from_ios.png) 
+![wireflow](https://gist.github.com/Raj-Hunjan/df43aeec311b06584b8296855fe02a8b#file-image-from-ios-png-png)  
